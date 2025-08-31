@@ -11,6 +11,6 @@
 
 ### To do
 - [x] Built this website.
-- [ ] Built it again on my own to fully understand it.
+- [ ] Build it again on my own to fully understand it.
 - [ ] Add some content.
 - [ ] Add animations using framer-motion.
