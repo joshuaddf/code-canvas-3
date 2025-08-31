@@ -1,7 +1,7 @@
 # Trying react three fibre for the first time
 - This is a new experience. 😁
 
-###How it started
+### How it started
 ![An image of the 3d models.] (/start.png)
 
 ## My takes on this.
