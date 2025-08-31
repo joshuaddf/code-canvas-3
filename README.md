@@ -2,7 +2,7 @@
 - This is a new experience. 😁
 
 ###How it started
-[! An image of the 3d models.] (/start.png)
+![An image of the 3d models.] (/start.png)
 
 ## My takes on this.
 - This is really cool. Always nice to learn something new.
