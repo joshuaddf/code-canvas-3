@@ -1,6 +1,9 @@
 # Trying react three fibre for the first time
 - This is a new experience. 😁
 
+###How it started
+[! An image of the 3d models.] (/start.png)
+
 ## My takes on this.
 - This is really cool. Always nice to learn something new.
 - Requires a lot of power. 🚀
@@ -11,5 +14,3 @@
 - [ ] Built it again on my own to fully understand it.
 - [ ] Add some content.
 - [ ] Add animations using framer-motion.
-
-Learnt this from a video on youtube. [^smallnote]
