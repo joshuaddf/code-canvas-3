@@ -4,7 +4,7 @@
 ### How it started
 ![An image of the 3d models.](./public/start.png)
 
-## My takes on this.
+## My thoughts on this.
 - This is really cool. Always nice to learn something new.
 - Requires a lot of power. 🚀
 - T'was lagging a lot so I had to comment out the EffectComposer. 😓
